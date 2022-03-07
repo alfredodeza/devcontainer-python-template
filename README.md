@@ -18,3 +18,7 @@ Template repository for a Python project using Devcontainers. Fork this reposito
 
 * A missing `requirements.txt` file
 * A missing `setup.py` file or no Python files to install
+
+## GitHub Actions ready
+
+* Uses a workflow for linting the included `Dockerfile`
